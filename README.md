@@ -1,2 +1,2 @@
-# DS_HW-3
+# DS_HW3
 datastruct homework #3
